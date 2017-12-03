@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1511664512 source:/home/pabloabreu/Documentos/UFMA/Laboratório de Programação/BancoPronto/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sqlite3.h>
+	"usuario.h"
+	"produto.h"
+	"banco.h"
+
+1511555202 /home/pabloabreu/Documentos/UFMA/Laboratório de Programação/BancoPronto/usuario_banco.h
+
+1511665888 /home/pabloabreu/Documentos/UFMA/Laboratório de Programação/BancoPronto/banco.h
+
+1511665400 /home/pabloabreu/Documentos/UFMA/Laboratório de Programação/BancoPronto/usuario.h
+
+1511665260 /home/pabloabreu/Documentos/UFMA/Laboratório de Programação/BancoPronto/produto.h
+
